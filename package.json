@@ -2,7 +2,7 @@
   "name": "tjc_service",
   "version": "1.0.0",
   "description": "A desktop application providing information for worship attendees of the True Jesus Church",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
     "test": "echo \"Error: no test specified\" && exit 1",

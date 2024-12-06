@@ -8,7 +8,7 @@ const createWindow = () => {
     icon: __dirname + '/assets/tjcbird.png'
   })
 
-  win.loadFile('index.html')
+  win.loadFile('src/index.html')
 }
 
 app.whenReady().then(() => {
