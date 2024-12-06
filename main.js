@@ -5,7 +5,7 @@ const createWindow = () => {
     width: 800,
     height: 600,
     autoHideMenuBar: true,
-    icon: __dirname + '/assets/tjcbird.ico'
+    icon: __dirname + '/assets/tjcbird.png'
   })
 
   win.loadFile('index.html')
