@@ -1,5 +1,5 @@
 {
-  "name": "tjc_service",
+  "name": "tjc-service",
   "version": "1.0.0",
   "description": "A desktop application providing information for worship attendees of the True Jesus Church",
   "main": "src/main.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calebchanwy/tjc_service.git"
+    "url": "git+https://github.com/calebchanwy/tjc-service.git"
   },
   "author": "Caleb Chan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calebchanwy/tjc_service/issues"
+    "url": "https://github.com/calebchanwy/tjc-service/issues"
   },
-  "homepage": "https://github.com/calebchanwy/tjc_service#readme",
+  "homepage": "https://github.com/calebchanwy/tjc-service#readme",
   "devDependencies": {
     "@electron-forge/cli": "^7.6.0",
     "@electron-forge/maker-deb": "^7.6.0",

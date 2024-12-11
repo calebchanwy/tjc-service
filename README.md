@@ -10,7 +10,7 @@ A desktop application providing information for worship attendees of the True Je
 
 Clone this repository:
 ```
-$ git clone git@github.com:calebchanwy/tjc_service.git
+$ git clone git@github.com:calebchanwy/tjc-service.git
 ```
 
 Install all required npm packages:
@@ -26,4 +26,4 @@ $ npm start
 ```
 
 ## License
-[MIT](https://github.com/calebchanwy/tjc_service/blob/main/LICENSE)
+[MIT](https://github.com/calebchanwy/tjc-service/blob/main/LICENSE)
